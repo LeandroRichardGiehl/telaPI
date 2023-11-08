@@ -8,9 +8,14 @@ p {
     text-align: justify;
 }
 
+div {
+    display: inline-block;
+}
+
 .container {
     max-width: 900px;
     margin: 0 auto;
+    margin-left: 20%;
     padding: 20px;
     background-color: rgba(253, 100, 138, 0.932);
     border-radius: 25px;
