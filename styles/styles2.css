@@ -21,7 +21,13 @@ div {
     border-radius: 25px;
 }
 
+.container-ists {
+    display: flex;
+    align-items: center;
+}
+
 .container2{
+    width: 300px;
     max-width: 300px;
     margin: 0 auto;
     margin-left: 24%;
@@ -31,6 +37,7 @@ div {
 }
 
 .container3 {
+    width: 300px;
     max-width: 300px;
     margin: 0 auto;
     margin-left: 59%;
@@ -47,12 +54,12 @@ h2 {
 }
 
 .titulo {
-    width: 8%;
+    width: 15%;
     margin-left: 30%;
 }
 
 .titulo2 {
-    width: 8%;
+    width: 22%;
     margin-left: 65%;
 }
 
@@ -64,4 +71,21 @@ h1 {
     width: 16%;
     margin-left: 40%;
     
+}
+
+button {
+    background-color: rgb(240, 69, 86);
+    border-radius: 25px;
+    border: none;
+    width: 50px;
+    height: 25px;
+}
+
+
+.botaoVoltar{
+    margin-top: 2%;
+    margin-left: 93%;
+    width: 3%;
+    height: 6%;
+    border-radius: 25px;
 }

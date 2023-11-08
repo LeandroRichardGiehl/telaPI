@@ -26,7 +26,8 @@ h2 {
     background-color: rgb(240, 69, 86);
     margin-top: 2%;
     margin-left: 93%;
-    width: 3%;
-    height: 6%;
+    width: 50px;
+    height: 25px;
     border-radius: 25px;
+    border: none;
 }
